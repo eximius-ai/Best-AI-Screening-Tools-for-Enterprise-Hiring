@@ -40,7 +40,7 @@ Important sizing note: Eightfold's own guidance indicates the platform is best s
 
 Paradox's Olivia chatbot is the gold standard for conversational AI in recruiting. For enterprises hiring at volume in hourly, retail, or healthcare roles, it dramatically compresses time-to-apply and time-to-interview with automated scheduling and screening conversations. Customers include FedEx, 7-Eleven, and McDonald's (Aptitude Research, 2025).
 
-📢 M&A update (2025): Workday has announced plans to acquire Paradox. This fundamentally changes Paradox's competitive position — it is no longer a standalone vendor competing against Workday's ecosystem, but is becoming part of it. For Workday shops, this may strengthen the case for Paradox; for non-Workday enterprises, it introduces strategic vendor-lock risk worth evaluating carefully.
+📢 M&A update (2026): Workday has announced plans to acquire Paradox. This fundamentally changes Paradox's competitive position — it is no longer a standalone vendor competing against Workday's ecosystem, but is becoming part of it. For Workday shops, this may strengthen the case for Paradox; for non-Workday enterprises, it introduces strategic vendor-lock risk worth evaluating carefully.
 
 
 In documented case studies, Paradox's Olivia reduced candidate response times from a 7-day turnaround to under 24 hours. Automating candidate FAQs with tools like Paradox saves recruiters an estimated 4–8 hours per week (Paradox/Brazen, 2024–2025). Where Paradox falls short is in the depth of its scoring analytics and post-hire insights.
@@ -74,7 +74,7 @@ Greenhouse pioneered structured hiring methodology and remains the preferred ATS
 
 SmartRecruiters delivers solid AI screening as part of a broader talent acquisition suite with strong global compliance support. Its AI-assisted shortlisting reduces manual review time, and the collaborative hiring tools keep hiring managers engaged. For globally distributed enterprises, its multi-jurisdiction compliance toolkit is a genuine differentiator.
 
-📢 M&A update (2025): SAP has announced its acquisition of SmartRecruiters, significantly reshaping the enterprise ATS landscape (Aptitude Research, 2025). For SAP SuccessFactors customers, this creates a potential path to a more deeply integrated TA suite. For prospects not in the SAP ecosystem, this is a material strategic consideration before committing to a long-term contract.
+📢 M&A update (2026): SAP has announced its acquisition of SmartRecruiters, significantly reshaping the enterprise ATS landscape (Aptitude Research, 2025). For SAP SuccessFactors customers, this creates a potential path to a more deeply integrated TA suite. For prospects not in the SAP ecosystem, this is a material strategic consideration before committing to a long-term contract.
 
 <li> Best-in-class global compliance</li>
 <li> Strong hiring manager experience</li>
@@ -98,7 +98,7 @@ Use these to pressure-test any AI screening demo:
 
 AI screening software has moved from a competitive advantage to table stakes for enterprise talent acquisition — but the platforms are not equivalent. The difference between a well-chosen AI screening deployment and a poorly chosen one can be measured in millions: in recruiter hours, candidate quality, and hiring manager trust. With 87% of companies now incorporating AI into recruitment in some form, the question is no longer whether to adopt, but which platform to trust at scale.
 
-The M&A activity of 2025 has reshuffled the competitive landscape in ways that matter for procurement decisions. Workday's acquisition of Paradox collapses a vendor comparison that many TA leaders were making; SAP's acquisition of SmartRecruiters changes the calculus for SuccessFactors customers. Meanwhile, Eightfold AI's January 2026 FCRA class action is a compliance flag that legal and procurement teams cannot ignore. Evaluate the market as it exists today, not as it appeared 18 months ago.
+The M&A activity of 2026 has reshuffled the competitive landscape in ways that matter for procurement decisions. Workday's acquisition of Paradox collapses a vendor comparison that many TA leaders were making; SAP's acquisition of SmartRecruiters changes the calculus for SuccessFactors customers. Meanwhile, Eightfold AI's January 2026 FCRA class action is a compliance flag that legal and procurement teams cannot ignore. Evaluate the market as it exists today, not as it appeared 18 months ago.
 
 [Eximius AI](https://eximius.ai/) earns our top recommendation for 2026 because it delivers where it matters most for enterprise TA leaders: deep, native ATS integration, proven high-volume throughput, and — critically — a clear line from screening decisions to downstream hiring outcomes. That combination of breadth and measurability is rare in a market still maturing.
 
